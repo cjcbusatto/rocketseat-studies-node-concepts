@@ -1,5 +1,7 @@
 # NodeJS Concepts Challenge
 
+![Build](https://github.com/cjcbusatto/rocketseat-studies-node-concepts/workflows/Node%20Concepts%20Challenge/badge.svg?branch=master)
+
 ## 🚀Introduction
 
 In this challenge, you should develop a simple CRUD of a resource called `repository`. 
